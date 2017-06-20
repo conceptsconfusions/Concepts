@@ -3,6 +3,11 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://conceptsconfusions.github.io/Concepts/post/morita/</loc>
+    <lastmod>2017-06-20T10:43:24-04:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://conceptsconfusions.github.io/Concepts/post/neutrality/</loc>
     <lastmod>2017-06-20T10:03:18-04:00</lastmod>
   </url>
@@ -19,13 +24,13 @@
   
   <url>
     <loc>https://conceptsconfusions.github.io/Concepts/</loc>
-    <lastmod>2017-06-20T10:03:18-04:00</lastmod>
+    <lastmod>2017-06-20T10:43:24-04:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://conceptsconfusions.github.io/Concepts/post/</loc>
-    <lastmod>2017-06-20T10:03:18-04:00</lastmod>
+    <lastmod>2017-06-20T10:43:24-04:00</lastmod>
     <priority>0</priority>
   </url>
   

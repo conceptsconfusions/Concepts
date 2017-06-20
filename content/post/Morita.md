@@ -1,6 +1,6 @@
 +++
 date = "2017-06-20T10:43:24-04:00"
-title = "Morita Doji's "A Boy"
+title = "Morita Doji's A Boy"
 
 +++
 
