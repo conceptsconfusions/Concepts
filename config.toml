@@ -1,0 +1,15 @@
+baseurl = "https://example.com"
+languageCode = "en"
+title = "Concepts and Confusion"
+theme = "hemingway2"
+copyright = "&copy; <a href=\"https://github.com/beli3ver\">Malte Kiefer</a> 2016"
+disqusShortname = ""
+googleAnalytics = ""
+description = "A blog about concepts, confusions, and the ways they interact."
+keywords = ["keyword1", "keyword2"]
+
+[taxonomies]
+tag = "tags"
+category = "categories"
+
+[params]
