@@ -7,6 +7,7 @@ disqusShortname = ""
 googleAnalytics = ""
 description = "A blog about concepts, confusions, and the ways they interact."
 keywords = ["keyword1", "keyword2"]
+publishDir = "docs"
 
 [taxonomies]
 tag = "tags"
