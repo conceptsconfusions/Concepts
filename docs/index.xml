@@ -2,32 +2,32 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Concepts and Confusion</title>
-    <link>https://example.com/</link>
+    <link>https://conceptsconfusions.github.io/Concepts/</link>
     <description>Recent content on Concepts and Confusion</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>&amp;copy; &lt;a href=&#34;https://github.com/beli3ver&#34;&gt;Malte Kiefer&lt;/a&gt; 2016</copyright>
     <lastBuildDate>Tue, 20 Jun 2017 10:03:18 -0400</lastBuildDate>
     
-	<atom:link href="https://example.com/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://conceptsconfusions.github.io/Concepts/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Net Neutrality</title>
-      <link>https://example.com/post/neutrality/</link>
+      <link>https://conceptsconfusions.github.io/Concepts/post/neutrality/</link>
       <pubDate>Tue, 20 Jun 2017 10:03:18 -0400</pubDate>
       
-      <guid>https://example.com/post/neutrality/</guid>
+      <guid>https://conceptsconfusions.github.io/Concepts/post/neutrality/</guid>
       <description>I wrote this in 2016. The situation in Canada has changed for the better in recent months. In America the situation has grown worse.
 The future of the internet will be decided in a debate over the identity of Internet Service Providers (ISPs). On one side, the ISPs remain as their name describes, service providers and passive members in the functioning of the internet. On the other side, the ISPs reposition themselves as &amp;ldquo;content providers&amp;rdquo; and active members in the functioning of the internet, effectively, middle-men.</description>
     </item>
     
     <item>
       <title>Welcome</title>
-      <link>https://example.com/post/first-post/</link>
+      <link>https://conceptsconfusions.github.io/Concepts/post/first-post/</link>
       <pubDate>Tue, 20 Jun 2017 09:40:55 -0400</pubDate>
       
-      <guid>https://example.com/post/first-post/</guid>
+      <guid>https://conceptsconfusions.github.io/Concepts/post/first-post/</guid>
       <description>Hello Welcome to my blog. Thanks.</description>
     </item>
     
